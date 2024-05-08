@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BurakGul1" alt="Burak Gul" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Hyper-Casual Games**
+- 🔭 I’m currently working on **Hyper-Casual Games**
 
 - 🌱 I’m currently learning **Laravel, Python**
 
